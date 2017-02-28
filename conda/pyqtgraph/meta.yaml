@@ -23,7 +23,7 @@ requirements:
   run:
     - python
     - numpy
-    - pyqt
+    - pyqt >=5.5
 
 test:
   imports:
